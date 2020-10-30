@@ -11,6 +11,7 @@ a contributor's posts on projects
 
 ## project github.com/DeathStarGame
 
+- lab repo https://github.com/sergeiudris/deathstar.lab
 - posts
     - [2020-10-27 rant on e-sports and idea of a new e-sport game](./posts/2020-10-27-rant-on-esports-and-idea-of-a-new-esport-game.md)
 - [YouTube playlist](https://www.youtube.com/playlist?list=PLB3Zd-VQLPGuZkUljCyjiWJ4w9ECGanpJ)
